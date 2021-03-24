@@ -6,4 +6,4 @@
 2. Run ```java MainInvoker```
 
 ## Demo visualization
-![Alt text](DemoImg.png?raw=true "Title")
+![Alt text](Demo/DemoImg.png?raw=true "Title")
