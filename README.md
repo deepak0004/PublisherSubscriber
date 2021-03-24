@@ -9,7 +9,7 @@ e. There is another variant - LinkedBlockingQueue, which blocks the accessing th
 ```
 
 ## How to run?
-#### Normal Version
+#### Normal version
 0. Run ```cd PublisherSubscriber```
 1. Run ```javac MainInvoker.java```
 2. Run ```java MainInvoker```
