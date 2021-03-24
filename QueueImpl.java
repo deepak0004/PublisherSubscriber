@@ -13,6 +13,7 @@ public class QueueImpl {
         this.queue = queue;
     }
 
+    // Thread safe queue push
     public synchronized void putMessage(Message message) throws InterruptedException {
         while (currentQueueSize == totalQueueLimit) {
             wait(); 
@@ -25,6 +26,7 @@ public class QueueImpl {
         notify();
     }
 
+    // Thread safe queue pop
     public synchronized Message getMessage() throws InterruptedException {
         while (currentQueueSize == 0) {
             wait();
