@@ -1,0 +1,7 @@
+https://www.javatpoint.com/java-executorservice
+https://stackoverflow.com/questions/2695426/are-linkedblockingqueues-insert-and-remove-methods-thread-safe
+https://www.baeldung.com/java-queue-linkedblocking-concurrentlinked
+https://www.geeksforgeeks.org/runnable-interface-in-java/
+https://stackoverflow.com/questions/2332537/producer-consumer-threads-using-a-queue
+https://www.geeksforgeeks.org/generating-random-numbers-in-java/
+https://www.geeksforgeeks.org/producer-consumer-solution-using-threads-java/
